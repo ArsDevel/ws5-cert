@@ -1,0 +1,105 @@
+[
+    {
+        "__jdCLASS": "PlaylistDataBase",
+        "sku-id": [
+            "jd2022-nx-all",
+            "jd2022-pc-all",
+            "jd2022-ps4-all",
+            "jd2022-ps5-all",
+            "jd2022-xbox-all",
+            "jd2022-xboxsx-all",
+            "jd2022-ggp-all",
+            "jd2022-nxch-all"
+        ],
+        "playlists-items": {
+            "playlist_Jul17Test": {
+                "pos": 0,
+                "id": "Jul17Test",
+                "name": "Test plsylist #1",
+                "description": "Test playlist for you!",
+                "visibility": true,
+                "isUnlock": true,
+                "isEvent": false,
+                "free": false,
+                "assest": {
+                    "console": {
+                        "cover_generic": "cdn-link",
+                        "cover_online": "cdn-link"
+                    },
+                    "phone": {
+                        "cover_banner": "cdn-link",
+                        "cover_generic": "cdn-link",
+                        "cover_online": "cdn-link"
+                    }
+                },
+                "maps": ["Happy", "Burn", "Problem", "BlameDebug", "Fame", "HotNCold", "TheFox"]
+            },
+            "playlist_eventSummerVibes_part1": {
+                "pos": 1,
+                "id": "eventSummerVibes_part1",
+                "name": "Summer Vibes",
+                "description": "Summer playlist for you!",
+                "visibility": true,
+                "isUnlock": true,
+                "isEvent": true,
+                "free": false,
+                "assest": {
+                    "console": {
+                        "cover_generic": "cdn-link",
+                        "cover_online": "cdn-link"
+                    },
+                    "phone": {
+                        "cover_banner": "cdn-link",
+                        "cover_generic": "cdn-link",
+                        "cover_online": "cdn-link"
+                    }
+                },
+                "maps": ["FancyTwice", "WhatLoversDo", "ItsyBitsyRetake", "Holiday", "Summer", "Oath", "WakaWaka"]
+            },
+            "playlist_boysBoys": {
+                "pos": 2,
+                "id": "boysBoys",
+                "name": "Boys Band!",
+                "description": "Special playlist for you!",
+                "visibility": true,
+                "isUnlock": true,
+                "isEvent": true,
+                "free": false,
+                "assest": {
+                    "console": {
+                        "cover_generic": "cdn-link",
+                        "cover_online": "cdn-link"
+                    },
+                    "phone": {
+                        "cover_banner": "cdn-link",
+                        "cover_generic": "cdn-link",
+                        "cover_online": "cdn-link"
+                    }
+                },
+                "maps": ["Blame"]
+            },
+            "playlist_girlsParty": {
+                "pos": 3,
+                "id": "girlsParty",
+                "name": "Girls!",
+                "description": "Special playlist for you!",
+                "visibility": true,
+                "isUnlock": true,
+                "isEvent": true,
+                "free": false,
+                "assest": {
+                    "console": {
+                        "cover_generic": "cdn-link",
+                        "cover_online": "cdn-link"
+                    },
+                    "phone": {
+                        "cover_banner": "cdn-link",
+                        "cover_generic": "cdn-link",
+                        "cover_online": "cdn-link"
+                    }
+                },
+                "maps": ["RainOnMe"]
+            }
+        }
+    }
+]

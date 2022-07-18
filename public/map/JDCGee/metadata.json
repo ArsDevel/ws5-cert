@@ -1,0 +1,162 @@
+{
+	"public": {
+		"artist": "Girls Generation",
+		"assets": {
+			"banner_bkgImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/JDCGee_banner_bkg.jpg/a69d3bd23a3bdbf04f4726ab8dd4771f.jpg",
+			"coach1ImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/JDCGee_Coach_1.png/e67e46be62d00b1069eee205f015c8fe.png",
+			"coach2ImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/JDCGee_Coach_2.png/bf1c2d191fae755606503c67b4f74e42.png",
+			"coach3ImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/JDCGee_Coach_3.png/bcb1b265cf9ee79a8d7b6b0e77332821.png",
+			"coverImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/JDCGee_Cover_Generic.jpg/5959f0e6fb304494e951d6c61c6f62cf.jpg",
+			"cover_smallImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/JDCGee_Cover_Online.jpg/6433de42e30ebf3736e2bd71ac7d6891.jpg",
+			"expandBkgImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/JDCGee_Cover_AlbumBkg.jpg/abb0b691f210a6f520a476037da13402.jpg",
+			"expandCoachImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/JDCGee_Cover_AlbumCoach.png/8183500b26b0ade53080f1dc14c35ed8.png",
+			"phoneCoach1ImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/JDCGee_Coach_1_Phone.png/47f30ae299f05c0fe82471f59178193a.png",
+			"phoneCoach2ImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/JDCGee_Coach_2_Phone.png/27b8946c6ef0cdb2c2da241fccd09b2b.png",
+			"phoneCoach3ImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/JDCGee_Coach_3_Phone.png/ab0930ddc2a4bc9a8469397a0bb50dc8.png",
+			"phoneCoverImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/JDCGee_Cover_Phone.jpg/6433de42e30ebf3736e2bd71ac7d6891.jpg",
+			"skus": {
+				"nx": {
+					"banner_bkgImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/nx/JDCGee_banner_bkg.tga.ckd/df16ba4152a8ba4dfb2ab76ef4785170.ckd",
+					"coach1ImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/nx/JDCGee_Coach_1.tga.ckd/742d8374dc3cecc86329678e5accb8cb.ckd",
+					"coach2ImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/nx/JDCGee_Coach_2.tga.ckd/5aa03163292e6a3be1285ef7ae70386b.ckd",
+					"coach3ImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/nx/JDCGee_Coach_3.tga.ckd/f194850684d29f2883e085fee4ecefbc.ckd",
+					"coverImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/nx/JDCGee_Cover_Generic.tga.ckd/e0d5621b95b357c66a88f096fe329d27.ckd",
+					"cover_smallImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/nx/JDCGee_Cover_Online.tga.ckd/d7b0ea934522f05736ca7cc3f9f6b3a2.ckd",
+					"expandBkgImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/nx/JDCGee_Cover_AlbumBkg.tga.ckd/a5d3a67c9393b24ded8242afec3b3cf1.ckd",
+					"expandCoachImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/nx/JDCGee_Cover_AlbumCoach.tga.ckd/f5ad67b4fa3dca1c1423bb2e99f4328c.ckd",
+					"map_bkgImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/nx/JDCGee_map_bkg.tga.ckd/947b3d326583ad5d6beb41164ad5976f.ckd"
+				},
+				"pc": {
+					"banner_bkgImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/pc/JDCGee_banner_bkg.tga.ckd/16d0ed91e299b68d10163277b5072614.ckd",
+					"coach1ImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/pc/JDCGee_Coach_1.tga.ckd/83f151057cb00c913f693d00d5c03c42.ckd",
+					"coach2ImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/pc/JDCGee_Coach_2.tga.ckd/1fb306e0f307488be3c7bca540e75de8.ckd",
+					"coach3ImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/pc/JDCGee_Coach_3.tga.ckd/effa9c7a1e0acded5f8686047be6800b.ckd",
+					"coverImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/pc/JDCGee_Cover_Generic.tga.ckd/1c206019901fcdfef0c1f4bb79c78b0e.ckd",
+					"cover_smallImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/pc/JDCGee_Cover_Online.tga.ckd/56e57d4e36cd4e138b13c7603cc07625.ckd",
+					"expandBkgImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/pc/JDCGee_Cover_AlbumBkg.tga.ckd/aab74130bc1202c7f4f17f0ca48bca94.ckd",
+					"expandCoachImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/pc/JDCGee_Cover_AlbumCoach.tga.ckd/d86cfd20ddc0a07f99d41952c13b3153.ckd",
+					"map_bkgImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/pc/JDCGee_map_bkg.tga.ckd/560804501c8570a5a74bf55c51dfe620.ckd"
+				},
+				"ps4": {
+					"banner_bkgImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/ps4/JDCGee_banner_bkg.tga.ckd/16d0ed91e299b68d10163277b5072614.ckd",
+					"coach1ImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/ps4/JDCGee_Coach_1.tga.ckd/4573987e4748859995af20236ac2224f.ckd",
+					"coach2ImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/ps4/JDCGee_Coach_2.tga.ckd/649d99a7b3471a3ef57dc0fe207421e0.ckd",
+					"coach3ImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/ps4/JDCGee_Coach_3.tga.ckd/690e80ad1f2d324aa2aef97f1f395ce4.ckd",
+					"coverImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/ps4/JDCGee_Cover_Generic.tga.ckd/1c206019901fcdfef0c1f4bb79c78b0e.ckd",
+					"cover_smallImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/ps4/JDCGee_Cover_Online.tga.ckd/56e57d4e36cd4e138b13c7603cc07625.ckd",
+					"expandBkgImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/ps4/JDCGee_Cover_AlbumBkg.tga.ckd/ccb43d24c0b35c04d5107816e5ffed3b.ckd",
+					"expandCoachImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/ps4/JDCGee_Cover_AlbumCoach.tga.ckd/db2b5f829346bcbd55c51b0e82bcd57b.ckd",
+					"map_bkgImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/ps4/JDCGee_map_bkg.tga.ckd/560804501c8570a5a74bf55c51dfe620.ckd"
+				},
+				"x1": {
+					"banner_bkgImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/x1/JDCGee_banner_bkg.tga.ckd/16d0ed91e299b68d10163277b5072614.ckd",
+					"coach1ImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/x1/JDCGee_Coach_1.tga.ckd/4573987e4748859995af20236ac2224f.ckd",
+					"coach2ImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/x1/JDCGee_Coach_2.tga.ckd/649d99a7b3471a3ef57dc0fe207421e0.ckd",
+					"coach3ImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/x1/JDCGee_Coach_3.tga.ckd/690e80ad1f2d324aa2aef97f1f395ce4.ckd",
+					"coverImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/x1/JDCGee_Cover_Generic.tga.ckd/1c206019901fcdfef0c1f4bb79c78b0e.ckd",
+					"cover_smallImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/x1/JDCGee_Cover_Online.tga.ckd/56e57d4e36cd4e138b13c7603cc07625.ckd",
+					"expandBkgImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/x1/JDCGee_Cover_AlbumBkg.tga.ckd/ccb43d24c0b35c04d5107816e5ffed3b.ckd",
+					"expandCoachImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/x1/JDCGee_Cover_AlbumCoach.tga.ckd/db2b5f829346bcbd55c51b0e82bcd57b.ckd",
+					"map_bkgImageUrl": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/x1/JDCGee_map_bkg.tga.ckd/560804501c8570a5a74bf55c51dfe620.ckd"
+				}
+			}
+		},
+		"audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,28800,57600,86400,115200,144000,172800,201600,230400,259200,288000,316800,345600,374400,403200,432000,460800,489600,518400,547200,576000,604800,633600,662400,691200,720000,748800,777600,806400,835200,864000,892800,921600,950400,979200,1008000,1036800,1065600,1094400,1123200,1152000,1180800,1209600,1238400,1267200,1296000,1324800,1353600,1382400,1411200],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-7,\"endBeat\":334,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":49,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/jdcgee/jdcgee_AudioPreview.ogg\"}",
+		"coachCount": 3,
+		"credits": "<< to be filled >>",
+		"customTypeNameId": -1,
+		"difficulty": 2,
+		"jdmAttributes": [],
+		"lyricsColor": "1584C6FF",
+		"lyricsType": 0,
+		"mainCoach": -1,
+		"mapLength": 204.6,
+		"mapName": "JDCGee",
+		"mapPreviewMpd": {
+			"videoEncoding": {
+				"vp8": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm💨profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp8\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"496301\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCGee/JDCGee_MapPreviewNoSoundCrop_LOW.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"592-1081\">\r\n\t\t\t\t\t<Initialization range=\"0-592\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1482390\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCGee/JDCGee_MapPreviewNoSoundCrop_MID.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"593-1083\">\r\n\t\t\t\t\t<Initialization range=\"0-593\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2886581\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCGee/JDCGee_MapPreviewNoSoundCrop_HIGH.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"593-1083\">\r\n\t\t\t\t\t<Initialization range=\"0-593\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"3096113\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCGee/JDCGee_MapPreviewNoSoundCrop_ULTRA.vp8.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"593-1083\">\r\n\t\t\t\t\t<Initialization range=\"0-593\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+				"vp9": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm💨profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp9\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"648288\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCGee/JDCGee_MapPreviewNoSoundCrop_LOW.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"593-1083\">\r\n\t\t\t\t\t<Initialization range=\"0-593\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1493452\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCGee/JDCGee_MapPreviewNoSoundCrop_MID.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"593-1083\">\r\n\t\t\t\t\t<Initialization range=\"0-593\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2983511\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCGee/JDCGee_MapPreviewNoSoundCrop_HIGH.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"593-1083\">\r\n\t\t\t\t\t<Initialization range=\"0-593\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5943725\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCGee/JDCGee_MapPreviewNoSoundCrop_ULTRA.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"593-1090\">\r\n\t\t\t\t\t<Initialization range=\"0-593\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n"
+			}
+		},
+		"mode": 6,
+		"originalJDVersion": 2017,
+		"packages": {
+			"mapContent": "JDCGee_mapContent"
+		},
+		"parentMapName": "JDCGee",
+		"songColors": {
+			"songColor_1A": "444444FF",
+			"songColor_1B": "111111FF",
+			"songColor_2A": "AAAAAAFF",
+			"songColor_2B": "777777FF"
+		},
+		"status": 3,
+		"sweatDifficulty": 2,
+		"tags": [
+			"Main"
+		],
+		"title": "Gee",
+		"urls": {
+			"jmcs://jd-contents/JDCGee/JDCGee_AudioPreview.ogg": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/JDCGee_AudioPreview.ogg/c9e61b7e452c393421bf2a9997f21722.ogg",
+			"jmcs://jd-contents/JDCGee/JDCGee_MapPreviewNoSoundCrop_HIGH.vp8.webm": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/JDCGee_MapPreviewNoSoundCrop_HIGH.vp8.webm/278ce94292277ec4df308be2063831b1.webm",
+			"jmcs://jd-contents/JDCGee/JDCGee_MapPreviewNoSoundCrop_HIGH.vp9.webm": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/JDCGee_MapPreviewNoSoundCrop_HIGH.vp9.webm/3250fb028e97f0db667897257fb0dd38.webm",
+			"jmcs://jd-contents/JDCGee/JDCGee_MapPreviewNoSoundCrop_LOW.vp8.webm": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/JDCGee_MapPreviewNoSoundCrop_LOW.vp8.webm/9a01560af9643820bd515b1a54a20be9.webm",
+			"jmcs://jd-contents/JDCGee/JDCGee_MapPreviewNoSoundCrop_LOW.vp9.webm": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/JDCGee_MapPreviewNoSoundCrop_LOW.vp9.webm/1ea1998e16747db01e9f45420a5cb9cc.webm",
+			"jmcs://jd-contents/JDCGee/JDCGee_MapPreviewNoSoundCrop_MID.vp8.webm": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/JDCGee_MapPreviewNoSoundCrop_MID.vp8.webm/5e96768110824b02ed8c17001643a31f.webm",
+			"jmcs://jd-contents/JDCGee/JDCGee_MapPreviewNoSoundCrop_MID.vp9.webm": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/JDCGee_MapPreviewNoSoundCrop_MID.vp9.webm/160f802a815d88d24c7600dafd116af0.webm",
+			"jmcs://jd-contents/JDCGee/JDCGee_MapPreviewNoSoundCrop_ULTRA.vp8.webm": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/JDCGee_MapPreviewNoSoundCrop_ULTRA.vp8.webm/a20cc51ebac4da01fdec0e543ea534c0.webm",
+			"jmcs://jd-contents/JDCGee/JDCGee_MapPreviewNoSoundCrop_ULTRA.vp9.webm": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/JDCGee_MapPreviewNoSoundCrop_ULTRA.vp9.webm/6adfc1c91e9bed372a1fcadf4e0ea54b.webm"
+		}
+	},
+	"offers": {
+		"free": false,
+		"localTrack": false,
+		"visibility": false
+	},
+	"carousel": {
+		"releaseDate": "2020-08-14T04:12:18",
+		"tags": []
+	},
+	"package": {
+		"nx": {
+			"common": {
+				"JDCGee_mapContent": {
+					"md5": "db519f7010a1b4bb9b09f78d6d1478ac",
+					"storageType": 0,
+					"url": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/nx/JDCGee_MAIN_SCENE_NX.zip/db519f7010a1b4bb9b09f78d6d1478ac.zip",
+					"version": 2
+				}
+			}
+		},
+		"pc": {
+			"common": {
+				"JDCGee_mapContent": {
+					"md5": "a36e244d10f1681efa9fbf7ccd428ac8",
+					"storageType": 0,
+					"url": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/pc/JDCGee_MAIN_SCENE_PC.zip/a36e244d10f1681efa9fbf7ccd428ac8.zip",
+					"version": 2
+				}
+			}
+		},
+		"ps4": {
+			"common": {
+				"JDCGee_mapContent": {
+					"md5": "52133d0cfa2729c060568df53821efa1",
+					"storageType": 0,
+					"url": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/ps4/JDCGee_MAIN_SCENE_ORBIS.zip/52133d0cfa2729c060568df53821efa1.zip",
+					"version": 2
+				}
+			}
+		},
+		"x1": {
+			"common": {
+				"JDCGee_mapContent": {
+					"md5": "c6ad17609ae9c95205a4c9f063c18884",
+					"storageType": 0,
+					"url": "https://jdcn-switch.cdn.ubisoft.cn/public/map/JDCGee/x1/JDCGee_MAIN_SCENE_DURANGO.zip/c6ad17609ae9c95205a4c9f063c18884.zip",
+					"version": 2
+				}
+			}
+		}
+	}
+}

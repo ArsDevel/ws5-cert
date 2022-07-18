@@ -1,0 +1,258 @@
+<xml __jClassName="playlists" skuId="jdn-2023-all-test">
+    <playlist data="playlist_0Games" position="-1" visibility-uid="0">
+        <itemlist items-count="14" sorted-by="rank" CLASS="FTUE" design="-1">
+            <allMapsWithSmallCover VAL="DiamondsSHI" CLASS="FTUE" />
+            <allMapsWithSmallCover VAL="Chiwawa" CLASS="FTUE" />
+            <allMapsWithSmallCover VAL="Burn" CLASS="FTUE" />
+            <allMapsWithSmallCover VAL="CrazyKids" CLASS="FTUE" />
+            <allMapsWithSmallCover VAL="BestSongEver" CLASS="FTUE" />
+            <allMapsWithSmallCover VAL="BoysBoys" CLASS="FTUE" />
+            <allMapsWithSmallCover VAL="Blame" CLASS="FTUE" />
+            <allMapsWithSmallCover VAL="BlackWidow" CLASS="FTUE" />
+            <allMapsWithSmallCover VAL="ILoveIt" CLASS="FTUE" />
+            <allMapsWithSmallCover VAL="Happy" CLASS="FTUE" />
+            <allMapsWithSmallCover VAL="SheWolfALT" CLASS="FTUE" />
+            <allMapsWithSmallCover VAL="OnlyGirl" CLASS="FTUE" />
+            <allMapsWithSmallCover VAL="DarkHorseMU" CLASS="FTUE" />
+            <allMapsWithSmallCover VAL="1999" CLASS="FTUE" />
+        </itemlist>
+    </playlist>
+    <playlist data="playlist_1JAN" position="0" visibility-uid="0">
+        <itemlist items-count="14" sorted-by="alphabet" CLASS="NORMAL" design="0">
+            <allMapsWithSmallCover VAL="Levitating" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="RockYouBody" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Believer" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="China" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="MoodALT" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Mood" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="TGIF" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="BlackMam" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Boombayah" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Happy" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Buttons" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="FlashPose" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="FreedFromDeesire" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Good4U" CLASS="NORMAL" />
+        </itemlist>
+    </playlist>
+    <playlist data="playlist_danc6Cert" position="1" visibility-uid="0">
+        <itemlist items-count="14" sorted-by="alphabet" CLASS="NORMAL" design="0">
+            <allMapsWithSmallCover VAL="4x4" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="AboutThatBass" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="BadRomanceALT" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Bailando" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="BestSongEver" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="BuiltForThisALT" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="CrazyKids" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="DancengQueen" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="DancengQueenCMU" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="DarkHorseALT" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="DiamondsALT" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="EdgeOfGlory" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Ghost" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="NeonLights" CLASS="NORMAL" />
+        </itemlist>
+    </playlist>
+	<playlist data="playlist_season2_1part" position="2" visibility-uid="0">
+        <itemlist items-count="2" sorted-by="alphabet" CLASS="EVENT" design="0">
+            <allMapsWithSmallCover VAL="BadHabits" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Womanizer" CLASS="NORMAL" />
+        </itemlist>
+    </playlist>
+	<playlist data="playlist_season2_2part" position="3" visibility-uid="0">
+        <itemlist items-count="6" sorted-by="alphabet" CLASS="EVENT" design="0">
+            <allMapsWithSmallCover VAL="Daisy" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Dance" CLASS="NORMAL" />
+			<allMapsWithSmallCover VAL="Malibu" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="LoveMeAgain" CLASS="NORMAL" />
+			<allMapsWithSmallCover VAL="BreakMyHeart" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="CantHoldDLC" CLASS="NORMAL" />
+        </itemlist>
+    </playlist>
+	<playlist data="playlist_season2All" position="4" visibility-uid="0">
+        <itemlist items-count="8" sorted-by="alphabet" CLASS="EVENT" design="0">
+			<allMapsWithSmallCover VAL="BadHabits" CLASS="NORMAL" />
+			<allMapsWithSmallCover VAL="BreakMyHeart" CLASS="NORMAL" />
+			<allMapsWithSmallCover VAL="CantHoldDLC" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Daisy" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Dance" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="LoveMeAgain" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Malibu" CLASS="NORMAL" />
+			<allMapsWithSmallCover VAL="Womanizer" CLASS="NORMAL" />
+        </itemlist>
+    </playlist>
+	<playlist data="playlist_summerParty" position="5" visibility-uid="0">
+        <itemlist items-count="8" sorted-by="alphabet" CLASS="EVENT" design="0">
+            <allMapsWithSmallCover VAL="Mayores" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="FancyTwice" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Summer" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="HotNCold" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="BadBoy" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="MiMiMi" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Tusa" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Holiday" CLASS="NORMAL" />
+        </itemlist>
+    </playlist>
+	<playlist data="playlist_bandBoys" position="6" visibility-uid="0">
+        <itemlist items-count="14" sorted-by="alphabet" CLASS="NORMAL" design="0">
+            <allMapsWithSmallCover VAL="Believer" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="IDontCare" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Jopping" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="RockYourBody" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Mood" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="OMG" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Vodovorot" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="OldTownRoad" CLASS="NORMAL" />
+			<allMapsWithSmallCover VAL="Blame" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Talk" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Happy" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="CantFeelMyFace" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="BeautyAndABeatDLC" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="IFeelItComing" CLASS="NORMAL" />
+        </itemlist>
+    </playlist>
+	<playlist data="playlist_girlSquad" position="7" visibility-uid="0">
+        <itemlist items-count="14" sorted-by="alphabet" CLASS="NORMAL" design="0">
+            <allMapsWithSmallCover VAL="7Rings" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="BabyOneMoreQUAT" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Bang" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="BewareOf" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="ChantajeALT" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Circus" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="DDUDU" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="FancyTwice" CLASS="NORMAL" />
+			<allMapsWithSmallCover VAL="IAmTheBest" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="KillThisLove" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Macarena" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="IDidItAgainQUAT" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="PoundTheAlarm" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="UglyBeauty" CLASS="NORMAL" />
+        </itemlist>
+    </playlist>
+	<playlist data="playlist_highVoltage" position="8" visibility-uid="0">
+        <itemlist items-count="12" sorted-by="alphabet" CLASS="NORMAL" design="0">
+            <allMapsWithSmallCover VAL="ThatPower" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Automaton" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Bangarang" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="DieYoungDLC" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Idealistic" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="LikeIWould" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="LittleSwing" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Promiscuous" CLASS="NORMAL" />
+			<allMapsWithSmallCover VAL="Sushii" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Spectronizer" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="SushiiALT" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Titanium" CLASS="NORMAL" />
+        </itemlist>
+    </playlist>
+	<playlist data="playlist_k-pop" position="9" visibility-uid="0">
+        <itemlist items-count="9" sorted-by="alphabet" CLASS="NORMAL" design="0">
+            <allMapsWithSmallCover VAL="Bang2019" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="BubblePop" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="DDUDU" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="FancyTwice" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="GangnamStyle" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Gentleman" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="IAmTheBest" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="KillThisLove" CLASS="NORMAL" />
+			<allMapsWithSmallCover VAL="NewFace" CLASS="NORMAL" />
+        </itemlist>
+    </playlist>
+	<playlist data="playlist_simpleDances" position="10" visibility-uid="0">
+        <itemlist items-count="17" sorted-by="alphabet" CLASS="NORMAL" design="0">
+            <allMapsWithSmallCover VAL="365" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="BabyShark" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="BadBoy" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="BadGuy" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="ConCalma" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Everybody" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="FitButYouKnow" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="GodIsAWoman" CLASS="NORMAL" />
+			<allMapsWithSmallCover VAL="ILikeIt" CLASS="NORMAL" />
+			<allMapsWithSmallCover VAL="BalMasque" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="OldTownRoad" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Policeman" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="RainOverMe" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Skibidi" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Sushii" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Talk" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="TelAviv" CLASS="NORMAL" />
+        </itemlist>
+    </playlist>
+	<playlist data="playlist_theLastDance" position="11" visibility-uid="0">
+        <itemlist items-count="8" sorted-by="alphabet" CLASS="NORMAL" design="0">
+            <allMapsWithSmallCover VAL="JuntoATi" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="DDUDU" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Diggy" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="DynamiteQUAT" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="DynamiteQUAT" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="IAmTheBest" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="LimaGolf1" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="LittleParty" CLASS="NORMAL" />
+        </itemlist>
+    </playlist>
+	<playlist data="playlist_backTrack" position="12" visibility-uid="0">
+        <itemlist items-count="12" sorted-by="alphabet" CLASS="NORMAL" design="0">
+            <allMapsWithSmallCover VAL="BarbraStreisand" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Macarena" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Bailando1997" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="ILoveIt" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="LaRespuesta" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="ABBAKnowingMe" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Andy" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Daddy" CLASS="NORMAL" />
+			<allMapsWithSmallCover VAL="Tetris" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Louie" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="MasQueNada" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Error" CLASS="NORMAL" />
+        </itemlist>
+    </playlist>
+	<playlist data="playlist_DBP" position="13" visibility-uid="0">
+        <itemlist items-count="12" sorted-by="alphabet" CLASS="NORMAL" design="0">
+            <allMapsWithSmallCover VAL="BabyShark" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="DontStart" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Policeman" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Summer" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Blue" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="PocoLoco" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Titanium" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="NewRules" CLASS="NORMAL" />
+			<allMapsWithSmallCover VAL="HotNCold" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Cmon" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="IFeelItComing" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Swag" CLASS="NORMAL" />
+        </itemlist>
+    </playlist>
+	<playlist data="playlist_fitness22" position="14" visibility-uid="0">
+        <itemlist items-count="12" sorted-by="alphabet" CLASS="NORMAL" design="0">
+            <allMapsWithSmallCover VAL="Juice" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="KickItALT" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="FindYourMove" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="MovesLikeDLC" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="SummerALT" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="OldTownRoadALT" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="TalkALT" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Gibberish" CLASS="NORMAL" />
+			<allMapsWithSmallCover VAL="YMCA" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Americano" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="OMGALT" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="TheTimeALT" CLASS="NORMAL" />
+        </itemlist>
+    </playlist>
+	<playlist data="playlist_latinCorner" position="15" visibility-uid="0">
+        <itemlist items-count="12" sorted-by="alphabet" CLASS="NORMAL" design="0">
+            <allMapsWithSmallCover VAL="MrSaxobeat" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Mamasita" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Despacito" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="BumBumTamTam" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Calypso" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Senorita" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="Medicina" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="MiGente" CLASS="NORMAL" />
+			<allMapsWithSmallCover VAL="ConCalma" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="ConAltura" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="RainOverMe" CLASS="NORMAL" />
+            <allMapsWithSmallCover VAL="ILikeIt" CLASS="NORMAL" />
+        </itemlist>
+    </playlist>
+</xml>
